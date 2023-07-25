@@ -1,0 +1,1 @@
+# Adroidconnectz-QR-code-generator
